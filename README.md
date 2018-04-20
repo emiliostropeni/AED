@@ -1,10 +1,11 @@
-# Algoritmos y Estuctura de Datos
-Curso: K1051
+# ***Algoritmos y Estuctura de Datos***
 
-Año : 2018
+---
 
-Legajo: 161545-2
+Curso: K1051<br>
+Año : 2018<br>
+Legajo: 161545-2<br>
+Apellido: Stropeni<br>
+Nombre: Emilio Pablo<br>
 
-Apellido: Stropeni
-
-Nombre: Emilio Pablo
+---
