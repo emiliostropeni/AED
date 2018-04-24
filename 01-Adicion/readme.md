@@ -17,7 +17,8 @@ Obtener dos numeros del usuario y mostrarle la suma.<br>
 <br>
 <br>
 Se le pedira al usuario dos numeros pertenecientes al conjunto de los Naturales "Z" para luego realizar la suma y mostrarle el resultado por pantalla. <br>
-
+<br>
+<br>
 
 La siguiente imagen muestra el IPO descripto para este TP<br>
 ![ipo]
