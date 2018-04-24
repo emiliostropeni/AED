@@ -1,4 +1,4 @@
-# ***Algoritmos y Estuctura de Datos***
+# ***Algoritmos y Estucturas de Datos***
 ###  Trabajo Practico: 02-EjemploTipos
 
 Curso : K1051<br>
