@@ -1,4 +1,4 @@
-# ***Algoritmos y Estuctura de Datos***
+# ***Algoritmos y Estucturas de Datos***
 ###  Trabajo Practico: 00-CppHelloWorld
 
 Curso : K1051<br>
